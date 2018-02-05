@@ -1,2 +1,2 @@
-# csss-webfotograf-a
-sitio web adaptativo para fotografia, el cual contiene filtros y animaciones. 
+# Sitio web para fotografía
+Es un sitio web adaptativo para compartir fotografías de trabajos o viajes, el proyeto cuenta con la aplicación de filtros y animaciones. 
